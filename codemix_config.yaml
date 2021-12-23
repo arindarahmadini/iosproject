@@ -1,0 +1,22 @@
+!ELF
+
+ConfigVersion : 1
+DebugInfo : 0
+
+AntiDecompile:
+  Use: 1
+  Filter: []
+  NameFilter: []
+
+String:
+  Use: 1
+  Filter: []
+  NameFilter: [ ]
+
+DummyCode:
+  Use: 1
+  Filter: []
+  NameFilter: []
+
+GlobalFilter: []
+GlobalNameFilter: [ ]
